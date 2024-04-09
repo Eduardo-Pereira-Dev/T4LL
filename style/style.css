@@ -1,0 +1,1542 @@
+*{
+    margin: 0vh 0vh;
+    padding: 0vh 0vw;
+}
+h1, h2, h3{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+     text-align: center;
+}
+#section-1{
+     background-color: #00BFFF;
+     padding: 0vh 10vw;
+}
+#section-1 h1{
+     padding: 2vh 0vw 2vh 0vw;
+}
+#section-1 p{
+     padding: 0vh 0vw 2vh 0vw;
+}
+#section-1 p strong{
+     color: #FFD700;
+}
+#section-1 button{
+     border: none;
+     background-color: #32CD32;
+     width: 80px;
+     height: 40px;
+     margin: 0vh 0vw 2vh 0vw;
+}
+#section-1 button:hover{
+     box-shadow: 1px 1px 1px 1px black;
+}
+#section-1 button a{
+     text-decoration: none;
+     color: white;
+     padding: 10px 2px;
+}
+
+
+
+
+
+#section-2{
+     margin: 0vh 10vw;
+     text-align: center;
+}
+#section-2 img{
+     padding: 2vh 0vw;
+     width: 400px;
+}
+#section-2 p{
+     padding: 0vh 0vw 2vh 0vw;
+}
+
+
+
+
+
+#section-3{
+     margin: 2vh 10vw 0vh 10vw;
+}
+#section-3 h2{
+     padding: 0vh 0vw 2vh 0vw;
+}
+#section-3 h3{
+     text-align: center;
+     padding: 0vh 0vw 2vh 0vw;
+     color: #FFA500;
+}
+#section-3 p{
+     padding: 0vh 0vw 2vh 0vw;
+}
+
+
+
+
+
+#section-4{
+     padding: 2vh 10vw 0vh 10vw;
+     background-color: #32CD32;
+     text-align: center;
+}
+#section-4 p{
+     padding: 0vh 0vw 2vh 0vw;
+}
+#section-4 p strong{
+     color: white;
+}
+#section-4 button{
+     border: none;
+     background-color: #FF0000;
+     width: 80px;
+     height: 40px;
+     margin: 0vh 0vw 2vh 0vw;
+}
+#section-4 button:hover{
+     box-shadow: 1px 1px 1px 1px black;
+}
+#section-4 button a{
+     text-decoration: none;
+     color: white;
+     padding: 10px 2px;
+}
+
+
+
+
+
+#section-5{
+     margin: 2vh 10vw;
+     text-align: center;
+}
+#section-5 h2{
+     padding: 0vh 0vw 2vh 0vw;
+}
+#section-5 .depoimento{
+     padding: 0vh 4vw 2vh 4vw;
+     width: 100px;
+     height: auto;
+     display: inline-block;
+}
+#section-5 .depoimento img{
+     height: 100px;
+     width: 100px;
+     border-radius: 50%;
+}
+#section-5 .depoimento .nome-cliente{
+     padding: 2vh 0vw;
+}
+
+
+
+
+
+#section-6{
+     margin: 0vh 10vw;
+     padding: 2vh 0vw;
+     text-align: center;
+}
+#section-6 .destaque{
+     padding: 2vh 0vw 0vh 0vw;
+}
+#section-6 .destaque img{
+     padding: 0vh 0vw 2vh 0vw;
+}
+
+
+
+
+
+#section-7{
+     padding: 2vh 10vw 0vh 10vw;
+     text-align: center;
+     background-color: #FFD700;
+ }
+ #section-7 h2{
+     padding: 0vh 0vw 2vh 0vw;
+ }
+ #section-7 p strong{
+     color: white;
+ }
+ #section-7 p{
+     padding: 0vh 0vw 2vh 0vw;
+ }
+ #section-7 button{
+     border: none;
+     background-color: #800080;
+     width: 80px;
+     height: 40px;
+     margin: 0vh 0vw 2vh 0vw;
+ }
+ #section-7 button:hover{
+     box-shadow: 1px 1px 1px 1px black;
+ }
+ #section-7 button a{
+     text-decoration: none;
+     color: white;
+     padding: 10px 2px;
+ }
+
+
+
+
+
+#section-8{
+     margin: 2vh 10vw;
+     text-align: center;
+}
+#section-8 h2{
+     padding: 0vh 0vw;
+}
+#section-8 #social{
+     padding: 2vh 0vw;
+}
+#section-8 #social a{
+     text-decoration: none;
+}
+#section-8 #social img{
+     height: 50px;
+     width: 50px;
+     padding: 0vh 2vw;
+}
+
+ #section-8 p{
+     padding: 2vh 0vw;
+}
+
+
+
+
+
+ footer{
+     padding: 2vh 10vw;
+     text-align: center;
+     background-color: #333333;
+ }
+ footer p{
+     color: white;
+ }
+ footer ul{
+     list-style-type: none;
+ }
+
+@media (max-width: 320px){
+   #section-1{
+        background-color: #00BFFF;
+        padding: 0vh 10vw;
+        text-align: center;
+   }
+   #section-1 h1{
+        padding: 2vh 0vw 2vh 0vw;
+   }
+   #section-1 p{
+        padding: 0vh 0vw 2vh 0vw;
+   }
+   #section-1 p strong{
+        color: #FFD700;
+   }
+   #section-1 button{
+        border: none;
+        background-color: #32CD32;
+        width: 80px;
+        height: 40px;
+        margin: 0vh 0vw 2vh 0vw;
+   }
+   #section-1 button:hover{
+        box-shadow: 1px 1px 1px 1px black;
+   }
+   #section-1 button a{
+        text-decoration: none;
+        color: white;
+        padding: 10px 2px;
+   }
+
+
+
+
+
+   #section-2{
+        margin: 0vh 10vw;
+   }
+   #section-2 img{
+        padding: 2vh 0vw;
+        width: 256px;
+   }
+   #section-2 p{
+        padding: 0vh 0vw 2vh 0vw;
+   }
+
+
+
+
+
+   #section-3{
+        margin: 2vh 10vw 0vh 10vw;
+   }
+   #section-3 h2{
+        padding: 0vh 0vw 2vh 0vw;
+   }
+   #section-3 h3{
+        text-align: center;
+        padding: 0vh 0vw 2vh 0vw;
+        color: #FFA500;
+   }
+   #section-3 p{
+        padding: 0vh 0vw 2vh 0vw;
+   }
+
+
+
+
+
+   #section-4{
+        padding: 2vh 10vw 0vh 10vw;
+        background-color: #32CD32;
+        text-align: center;
+   }
+   #section-4 p{
+        padding: 0vh 0vw 2vh 0vw;
+   }
+   #section-4 p strong{
+        color: white;
+   }
+   #section-4 button{
+        border: none;
+        background-color: #FF0000;
+        width: 80px;
+        height: 40px;
+        margin: 0vh 0vw 2vh 0vw;
+   }
+   #section-4 button:hover{
+        box-shadow: 1px 1px 1px 1px black;
+   }
+   #section-4 button a{
+        text-decoration: none;
+        color: white;
+        padding: 10px 2px;
+   }
+
+
+
+
+
+   #section-5{
+        margin: 2vh 10vw;
+        text-align: center;
+   }
+   #section-5 h2{
+        padding: 0vh 0vw 2vh 0vw;
+   }
+   #section-5 .depoimento{
+        padding: 0vh 8vw 2vh 8vw;
+   }
+   #section-5 .depoimento img{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+   }
+   #section-5 .depoimento .nome-cliente{
+        padding: 2vh 0vw;
+   }
+
+
+
+
+
+   #section-6{
+        margin: 0vh 10vw;
+        padding: 2vh 0vw;
+        text-align: center;
+   }
+   #section-6 .destaque{
+        padding: 2vh 0vw 0vh 0vw;
+   }
+   #section-6 .destaque img{
+        padding: 0vh 0vw 2vh 0vw;
+   }
+
+
+
+
+
+    #section-7{
+        padding: 2vh 10vw 0vh 10vw;
+        text-align: center;
+        background-color: #FFD700;
+    }
+    #section-7 h2{
+        padding: 0vh 0vw 2vh 0vw;
+    }
+    #section-7 p strong{
+        color: white;
+    }
+    #section-7 p{
+        padding: 0vh 0vw 2vh 0vw;
+    }
+    #section-7 button{
+        border: none;
+        background-color: #800080;
+        width: 80px;
+        height: 40px;
+        margin: 0vh 0vw 2vh 0vw;
+    }
+    #section-7 button:hover{
+        box-shadow: 1px 1px 1px 1px black;
+    }
+    #section-7 button a{
+        text-decoration: none;
+        color: white;
+        padding: 10px 2px;
+    }
+
+
+
+
+
+    #section-8{
+        margin: 2vh 10vw;
+        text-align: center;
+    }
+    #section-8 h2{
+        padding: 0vh 0vw;
+    }
+    #section-8 #social{
+        display: flex;
+        padding: 2vh 0vw;
+    }
+    #section-8 #social img{
+        height: 50px;
+        width: 50px;
+        padding: 0vh 2vw;
+    }
+    #section-8 p{
+        padding: 2vh 0vw;
+    }
+
+
+
+
+
+    footer{
+        padding: 2vh 10vw;
+        text-align: center;
+        background-color: #333333;
+    }
+    footer p{
+        color: white;
+    }
+    footer ul{
+        list-style-type: none;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 424px){
+    #section-1{
+          padding: 2vh 10vw 0vh 10vw;
+          text-align: center;
+          background-color: #00BFFF;
+    }
+    #section-1 h1{
+          padding: 0vh 0vw 2vh 0vw;
+    }
+    #section-1 p{
+          padding: 0vh 0vw 2vh 0vw;
+    }
+    #section-1 p strong{
+          color: #FFD700;
+     }
+     #section-1 button{
+          border: none;
+          background-color: #32CD32;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-1 button:hover{
+      box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-1 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-2{
+          margin: 2vh 10vw 0vh 10vw;
+          text-align: center;
+     }
+     #section-2 img{
+          padding: 0vh 0vw 2vh 0vw;
+          width: 289px;
+     }
+     #section-2 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-3{
+          margin: 2vh 10vw 0vh 10vw;
+          text-align: center;
+     }
+     #section-3 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-3 .card h3{
+          color: #FFA500;
+     }
+     #section-3 .card p{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+     #section-4{
+          background-color: #32CD32;
+          padding: 0vh 10vw;
+          text-align: center;
+     }
+     #section-4 p{
+          padding: 2vh 0vw;
+     }
+     #section-4 p strong{
+          color: white;
+     }
+     #section-4 button{
+          border: none;
+          background-color: #FF0000;
+          width: 80px;
+          height: 40px;
+     }
+     #section-4 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-4 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-5{
+          margin: 2vh 10vw 0vh 10vw;
+          padding: 0vh 0vw 2vh 0vw;
+          text-align: center;
+     }
+     #section-5 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-5 .depoimento{
+          padding: 0vh 7vw 2vh 7vw;
+     }
+     #section-5 .depoimento img{
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+     }
+     #section-5 .depoimento .nome-cliente{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+     #section-6{
+          margin: 2vh 10vw 0vh 10vw;
+          text-align: center;
+     }
+     #section-6 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-6 .destaque img{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-6 .destaque p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-7{
+          background-color: #FFD700;
+          padding: 2vh 10vw 0vh 10vw;
+          text-align: center;
+     }
+     #section-7 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-7 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-7 p strong{
+          color: white;
+     }
+     #section-7 button{
+          border: none;
+          background-color: #800080;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-7 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-7 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-8{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-8 #social{
+          padding: 2vh 0vw;
+     }
+     #section-8 #social a{
+          text-decoration: none;
+     }
+     #section-8 #social a img{
+          height: 50px;
+          width: 50px;
+          padding: 0vh 2vw;
+     }
+     #section-8 p{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+     footer{
+          background-color: #333333;
+          padding: 2vh 10vw;
+          text-align: center;
+          color: white;
+     }
+     footer ul{
+          list-style-type: none;
+     }
+}
+
+@media (min-width: 425px) and (max-width: 767px){
+     body{
+          text-align: center;
+     }
+    #section-1{
+          padding: 2vh 10vw;
+          background-color: #00BFFF;
+    }
+    #section-1 p{
+          padding: 2vh 0vw 0vh 0vw;
+    }
+    #section-1 p strong{
+          color: #FFD700;
+    }
+     #section-1 button{
+          border: none;
+          background-color: #32CD32;
+          width: 80px;
+          height: 40px;
+          margin: 2vh 0vw 0vh 0vw;
+     }
+     #section-1 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-1 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-2{
+          margin: 2vh 10vh;
+     }
+     #section-2 img{
+          width: 250px;
+     }
+     #section-2 p{
+          margin: 2vh 0vh;
+     }
+
+
+
+
+
+     #section-3{
+          margin: 2vh 10vw 0vh 10vw;
+          padding: 2vh 0vw 0vh 0vw;
+     }
+     #section-3 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-3 h3{
+          color: #FFA500;
+     }
+     #section-3 p{
+          padding: 2vh 0vh 2vh 0vh;
+     }
+
+
+
+
+
+     #section-4{
+          padding: 2vh 10vw 0vh 10vw;
+          background-color: #32CD32;
+     }
+     #section-4 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-4 p strong{
+          color: white;
+     }
+     #section-4 button{
+          border: none;
+          background-color: #FF0000;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-4 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-4 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-5{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-5 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-5 .depoimento{
+          padding: 0vh 6vw 2vh 6vw;
+          width: 100px;
+          height: auto;
+          display: inline-block;
+     }
+     #section-5 .depoimento img{
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+     }
+     #section-5 .depoimento .nome-cliente{
+          padding: 2vh 0vw;
+     }
+
+     
+
+
+
+     
+
+     #section-6{
+          margin: 0vh 10vw;
+          padding: 2vh 0vw;
+          text-align: center;
+     }
+     #section-6 .destaque{
+          padding: 2vh 0vw 0vh 0vw;
+     }
+     #section-6 .destaque img{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+     
+
+
+
+     #section-7{
+          padding: 2vh 10vw 0vh 10vw;
+          text-align: center;
+          background-color: #FFD700;
+      }
+      #section-7 h2{
+          padding: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 p strong{
+          color: white;
+      }
+      #section-7 p{
+          padding: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 button{
+          border: none;
+          background-color: #800080;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+      }
+      #section-7 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+      }
+
+
+
+
+
+     #section-8{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-8 h2{
+          padding: 0vh 0vw;
+     }
+     #section-8 #social{
+          display: flex;
+          padding: 2vh 0vw;
+     }
+     #section-8 #social img{
+          height: 50px;
+          width: 50px;
+          padding: 0vh 4vw;
+     }
+     #section-8 p{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+     footer{
+          padding: 2vh 10vw;
+          text-align: center;
+          background-color: #333333;
+      }
+      footer p{
+          color: white;
+      }
+      footer ul{
+          list-style-type: none;
+      }
+}
+
+@media (min-width: 1024px) and (max-width: 1439px){
+     body{
+          text-align: center;
+     }
+
+
+
+
+     #section-1{
+          background-color: #00BFFF;
+          padding: 0vh 10vw;
+          text-align: center;
+     }
+     #section-1 h1{
+          padding: 2vh 0vw 2vh 0vw;
+     }
+     #section-1 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-1 p strong{
+          color: #FFD700;
+     }
+     #section-1 button{
+          border: none;
+          background-color: #32CD32;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-1 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-1 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-2{
+          margin: 0vh 10vw;
+     }
+     #section-2 img{
+          padding: 2vh 0vw;
+          width: 400px;
+     }
+     #section-2 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-3{
+          margin: 2vh 10vw 0vh 10vw;
+     }
+     #section-3 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-3 h3{
+          text-align: center;
+          padding: 0vh 0vw 2vh 0vw;
+          color: #FFA500;
+     }
+     #section-3 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-4{
+          padding: 2vh 10vw 0vh 10vw;
+          background-color: #32CD32;
+          text-align: center;
+     }
+     #section-4 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-4 p strong{
+          color: white;
+     }
+     #section-4 button{
+          border: none;
+          background-color: #FF0000;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-4 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-4 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-5{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-5 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-5 .depoimento{
+          padding: 0vh 5vw 2vh 5vw;
+          width: 100px;
+          height: auto;
+          display: inline-block;
+     }
+     #section-5 .depoimento img{
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+     }
+     #section-5 .depoimento .nome-cliente{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+     #section-6{
+          margin: 0vh 10vw;
+          padding: 2vh 0vw;
+          text-align: center;
+     }
+     #section-6 .destaque{
+          padding: 2vh 0vw 0vh 0vw;
+     }
+     #section-6 .destaque img{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-7{
+          padding: 2vh 10vw 0vh 10vw;
+          text-align: center;
+          background-color: #FFD700;
+      }
+      #section-7 h2{
+          padding: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 p strong{
+          color: white;
+      }
+      #section-7 p{
+          padding: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 button{
+          border: none;
+          background-color: #800080;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+      }
+      #section-7 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+      }
+
+
+
+
+
+     #section-8{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-8 h2{
+          padding: 0vh 0vw;
+     }
+     #section-8 #social{
+          padding: 2vh 0vw;
+     }
+     #section-8 #social a{
+          text-decoration: none;
+     }
+     #section-8 #social img{
+          height: 50px;
+          width: 50px;
+          padding: 0vh 2vw;
+     }
+     
+      #section-8 p{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+      footer{
+          padding: 2vh 10vw;
+          text-align: center;
+          background-color: #333333;
+      }
+      footer p{
+          color: white;
+      }
+      footer ul{
+          list-style-type: none;
+      }
+}
+
+@media (min-width: 1440px) and (max-width: 2559px){
+     body{
+          text-align: center;
+     }
+
+
+
+
+     #section-1{
+          background-color: #00BFFF;
+          padding: 0vh 10vw;
+          text-align: center;
+     }
+     #section-1 h1{
+          padding: 2vh 0vw 2vh 0vw;
+     }
+     #section-1 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-1 p strong{
+          color: #FFD700;
+     }
+     #section-1 button{
+          border: none;
+          background-color: #32CD32;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-1 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-1 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-2{
+          margin: 0vh 10vw;
+     }
+     #section-2 img{
+          padding: 2vh 0vw;
+          width: 400px;
+     }
+     #section-2 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-3{
+          margin: 2vh 10vw 0vh 10vw;
+     }
+     #section-3 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-3 h3{
+          text-align: center;
+          padding: 0vh 0vw 2vh 0vw;
+          color: #FFA500;
+     }
+     #section-3 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-4{
+          padding: 2vh 10vw 0vh 10vw;
+          background-color: #32CD32;
+          text-align: center;
+     }
+     #section-4 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-4 p strong{
+          color: white;
+     }
+     #section-4 button{
+          border: none;
+          background-color: #FF0000;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-4 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-4 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+     }
+
+
+
+
+
+     #section-5{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-5 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-5 .depoimento{
+          padding: 0vh 3vw 2vh 3vw;
+          width: 100px;
+          height: auto;
+          display: inline-block;
+     }
+     #section-5 .depoimento img{
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+     }
+     #section-5 .depoimento .nome-cliente{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+     #section-6{
+          margin: 0vh 10vw;
+          padding: 2vh 0vw;
+          text-align: center;
+     }
+     #section-6 .destaque{
+          padding: 2vh 0vw 0vh 0vw;
+     }
+     #section-6 .destaque img{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-7{
+          padding: 2vh 10vw 0vh 10vw;
+          text-align: center;
+          background-color: #FFD700;
+      }
+      #section-7 h2{
+          padding: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 p strong{
+          color: white;
+      }
+      #section-7 p{
+          padding: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 button{
+          border: none;
+          background-color: #800080;
+          width: 80px;
+          height: 40px;
+          margin: 0vh 0vw 2vh 0vw;
+      }
+      #section-7 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+      }
+      #section-7 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+      }
+
+
+
+
+
+     #section-8{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-8 h2{
+          padding: 0vh 0vw;
+     }
+     #section-8 #social{
+          padding: 2vh 0vw;
+     }
+     #section-8 #social a{
+          text-decoration: none;
+     }
+     #section-8 #social img{
+          height: 50px;
+          width: 50px;
+          padding: 0vh 2vw;
+     }
+     
+      #section-8 p{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+      footer{
+          padding: 2vh 10vw;
+          text-align: center;
+          background-color: #333333;
+      }
+      footer p{
+          color: white;
+      }
+      footer ul{
+          list-style-type: none;
+      }
+}
+
+@media (min-width: 2560px){
+     body{
+          text-align: center;
+     }
+      h1, h2, h3{
+          font-size: 3em;
+          font-family: "Roboto", sans-serif;
+          font-weight: 800;
+          font-style: normal;
+      }
+      p{
+          font-size: 2em;
+          font-family: "Roboto", sans-serif;
+          font-weight: 400;
+          font-style: normal;
+      }
+
+
+
+
+
+     #section-1{
+          background-color: #00BFFF;
+          padding: 0vh 10vw;
+          text-align: center;
+     }
+     #section-1 h1{
+          padding: 2vh 0vw 2vh 0vw;
+     }
+     #section-1 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-1 p strong{
+          color: #FFD700;
+     }
+     #section-1 button{
+          border: none;
+          background-color: #32CD32;
+          width: 160px;
+          height: 80px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-1 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-1 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+          font-size: 2em;
+     }
+
+
+
+
+
+     #section-2{
+          margin: 0vh 10vw;
+     }
+     #section-2 img{
+          padding: 2vh 0vw;
+          width: 400px;
+     }
+     #section-2 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-3{
+          margin: 2vh 10vw 0vh 10vw;
+     }
+     #section-3 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-3 h3{
+          text-align: center;
+          padding: 0vh 0vw 2vh 0vw;
+          color: #FFA500;
+     }
+     #section-3 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-4{
+          padding: 2vh 10vw 0vh 10vw;
+          background-color: #32CD32;
+          text-align: center;
+     }
+     #section-4 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-4 p strong{
+          color: white;
+     }
+     #section-4 button{
+          border: none;
+          background-color: #FF0000;
+          width: 160px;
+          height: 80px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-4 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-4 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+          font-size: 2em;
+     }
+
+
+
+
+
+     #section-5{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-5 h2{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-5 .depoimento{
+          padding: 0vh 4vw 2vh 4vw;
+          width: 180px;
+          height: auto;
+          display: inline-block;
+     }
+     #section-5 .depoimento img{
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+     }
+     #section-5 .depoimento .nome-cliente{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+     #section-6{
+          margin: 0vh 10vw;
+          padding: 2vh 0vw;
+          text-align: center;
+     }
+     #section-6 .destaque{
+          padding: 2vh 0vw 0vh 0vw;
+     }
+     #section-6 .destaque img{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+
+
+
+
+
+     #section-7{
+          padding: 2vh 10vw 0vh 10vw;
+          background-color: #FFD700;
+          text-align: center;
+     }
+     #section-7 p{
+          padding: 0vh 0vw 2vh 0vw;
+     }
+     #section-7 p strong{
+          color: white;
+     }
+     #section-7 button{
+          border: none;
+          background-color: #800080;
+          width: 160px;
+          height: 80px;
+          margin: 0vh 0vw 2vh 0vw;
+     }
+     #section-7 button:hover{
+          box-shadow: 1px 1px 1px 1px black;
+     }
+     #section-7 button a{
+          text-decoration: none;
+          color: white;
+          padding: 10px 2px;
+          font-size: 2em;
+     }
+
+
+
+
+
+     #section-8{
+          margin: 2vh 10vw;
+          text-align: center;
+     }
+     #section-8 h2{
+          padding: 0vh 0vw;
+     }
+     #section-8 #social{
+          padding: 2vh 0vw;
+     }
+     #section-8 #social a{
+          text-decoration: none;
+     }
+     #section-8 #social img{
+          height: 50px;
+          width: 50px;
+          padding: 0vh 2vw;
+     }
+     
+      #section-8 p{
+          padding: 2vh 0vw;
+     }
+
+
+
+
+
+      footer{
+          padding: 2vh 10vw;
+          text-align: center;
+          background-color: #333333;
+      }
+      footer p{
+          color: white;
+      }
+      footer ul{
+          list-style-type: none;
+      }
+}
